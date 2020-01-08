@@ -1,3 +1,4 @@
 .idea/
 target/
 Twitter-ES-Kafka.iml
+src/main/java/com/yiting/twittereskafka/GetSecret.java
